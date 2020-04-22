@@ -1,0 +1,37 @@
+ 
+
+
+h2 {
+  background-color: rgb(88, 155, 155);
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 900px;
+  text-align: center;
+  
+  padding: 15px;
+  font-style: inherit;
+}
+
+
+
+h3 {
+    color: rgb(88, 155, 155);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h5 {
+  color: rgb(88, 155, 155);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+button {
+    color: rgb(88, 155, 155);
+    text-align: right;
+
+
+}
+img {
+  font-family: verdana;
+  font-size: 20px;
+}
